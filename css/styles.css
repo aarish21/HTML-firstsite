@@ -1,0 +1,14 @@
+hr{
+    border-style: dotted none none;
+    border-color: gray;
+    background-color: bisque;
+    border-top-width: 5px;
+    /* height: 100px; */
+    width: 5%;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    color: slategray;
+}
